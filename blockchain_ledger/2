@@ -1,0 +1,19 @@
+{
+    "block": {
+        "date": "15/05/2022 23:26:15",
+        "hash": "60a0df3d96198361dcf0251394e7efb0"
+    },
+    "prev_block": {
+        "hash": "e20e76f9c52019b039e0e9b189406246",
+        "block file": "1"
+    },
+    "Transaction": {
+        "contracted": "MediPharm",
+        "contractor": "MediRaw",
+        "amount": 1000,
+        "contract certificate": "087e5ac2-d49e-11ec-820d-e6b880c34cce",
+        "production date": "15/05/2022 23:26:15",
+        "sku": "242763751",
+        "barcode id": "24043735"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "block": {
+        "date": "15/05/2022 23:26:15",
+        "hash": "e20e76f9c52019b039e0e9b189406246"
+    },
+    "Transaction": {
+        "contracted": "None",
+        "contractor": "None",
+        "amount": 0,
+        "contract certificate": "None",
+        "production date": "None",
+        "sku": "None",
+        "barcode id": "None"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "block": {
+        "date": "15/05/2022 23:43:56",
+        "hash": "76018e7c022138f9dcb9b6b2ccfe2382"
+    },
+    "prev_block": {
+        "hash": "60a0df3d96198361dcf0251394e7efb0",
+        "block file": "2"
+    },
+    "Transaction": {
+        "quantity": 2000,
+        "drug": "Azyproma",
+        "certificate": "810b696a-d4a0-11ec-820d-e6b880c34cce",
+        "approval status": 1,
+        "production date": "15/05/2022 23:43:56",
+        "sku": "247759530",
+        "barcode id": "35694053"
+    }
+}

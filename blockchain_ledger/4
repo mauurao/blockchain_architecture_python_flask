@@ -1,0 +1,19 @@
+{
+    "block": {
+        "date": "15/05/2022 23:44:23",
+        "hash": "9a90dfbf50c7ff4c50497b906f0175b4"
+    },
+    "prev_block": {
+        "hash": "76018e7c022138f9dcb9b6b2ccfe2382",
+        "block file": "3"
+    },
+    "Transaction": {
+        "amount": 241,
+        "pharma manufacturer": "MediPharm",
+        "regulator id": "PharmRegul",
+        "validation": true,
+        "certificate": "90d059e6-d4a0-11ec-820d-e6b880c34cce",
+        "emission date": "15/05/2022 23:44:23",
+        "sku": "186157105"
+    }
+}

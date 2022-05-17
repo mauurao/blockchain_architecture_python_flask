@@ -1,0 +1,25 @@
+{
+    "block": {
+        "date": "15/05/2022 23:45:44",
+        "hash": "02d4fc88052f117a188dba55a3d376c2"
+    },
+    "prev_block": {
+        "hash": "9a90dfbf50c7ff4c50497b906f0175b4",
+        "block file": "4"
+    },
+    "Transaction": {
+        "contracted": "MediPharmStore",
+        "contractor": "Central Hospital",
+        "drug": "Test Drugs",
+        "amount": "200",
+        "warehouse id": "c1558eec-d4a0-11ec-820d-e6b880c34cce",
+        "manufacturer last update date": "15/05/2022 23:45:44",
+        "hospital last update date": "15/05/2022 23:45:44",
+        "sku": "186812546",
+        "manufacturer warehouse iot temperature": "-82",
+        "manufacturer warehouse iot humidity": "45",
+        "hospital warehouse iot temperature": "-73",
+        "hospital warehouse iot humidity": "41",
+        "barcode id": "5871485"
+    }
+}
